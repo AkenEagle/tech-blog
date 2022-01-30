@@ -1,1 +1,1 @@
-# tech-blog-handlebars
+# tech-blog
