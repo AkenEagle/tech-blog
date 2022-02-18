@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/surajverma2587/tech-blog-handlebars.git"
+    "url": "git+https://github.com/akeneagle/tech-blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/surajverma2587/tech-blog-handlebars/issues"
+    "url": "https://github.com/akeneagle/tech-blog/issues"
   },
-  "homepage": "https://github.com/surajverma2587/tech-blog-handlebars#readme",
+  "homepage": "https://github.com/akeneagle/tech-blog#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
   },
